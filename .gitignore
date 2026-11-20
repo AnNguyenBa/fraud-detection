@@ -1,0 +1,30 @@
+# ---- Bí mật và cấu hình máy cá nhân (KHÔNG BAO GIỜ commit) ----
+.env
+*.env
+!.env.example
+
+# ---- Dữ liệu (bộ Kaggle lớn, có điều khoản sử dụng riêng) ----
+/data/
+
+# ---- Mô hình đã huấn luyện (bỏ dòng này nếu muốn nộp kèm mô hình) ----
+*.joblib
+
+# ---- Java / Maven ----
+target/
+*.class
+*.log
+
+# ---- Python ----
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---- IDE / hệ điều hành ----
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
