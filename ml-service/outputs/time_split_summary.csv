@@ -1,0 +1,2 @@
+total_transactions,originally_sorted_by_time,train_ratio_target,cutoff_time,train_transactions,test_transactions,train_fraud,test_fraud,train_normal,test_normal
+284807,True,0.8,145248.0,227845,56962,417,75,227428,56887

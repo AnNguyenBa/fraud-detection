@@ -1,0 +1,15 @@
+{
+    "model": "RandomForestClassifier",
+    "precision": 0.9814814814814815,
+    "recall": 0.7066666666666667,
+    "f1_score": 0.8217054263565892,
+    "pr_auc": 0.8194028453034021,
+    "threshold": 0.5,
+    "true_positive": 53,
+    "false_positive": 1,
+    "true_negative": 56886,
+    "false_negative": 22,
+    "n_estimators": 300,
+    "max_depth": 16,
+    "preprocessing_version": "v1"
+}

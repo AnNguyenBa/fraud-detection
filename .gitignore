@@ -28,3 +28,10 @@ __pycache__/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# ---- ML intermediate data ----
+/ml-service/outputs/train_data.csv
+/ml-service/outputs/test_data.csv
+
+# ---- ML temporary request ----
+/ml-service/sample_request.json
